@@ -2,7 +2,7 @@
 
 ## Appendix A. Undefined Behavior
 
-The following cases are explicitly defined as **undefined behavior** in BASIC, Ross Online Solutions flavored 1.0.0.
+The following cases are explicitly defined as **undefined behavior** in BASIC, TrES-5b flavored 1.0.0.
 In these cases, the interpreter may behave in any manner, including continuing execution, aborting execution, or producing arbitrary results.
 Undefined behavior does not affect conformance.
 

@@ -1,7 +1,7 @@
 # Chapter 1. Introduction and Scope
 
 ## 1.1 Name of the Language
-The programming language described in this specification is called **BASIC**, Ross Online Solutions flavored.
+The programming language described in this specification is called **BASIC**, TrES-5b flavored.
 
 ## 1.2 Purpose and Philosophy
 This BASIC dialect was created as an experimental dialect of BASIC with the dual purpose of:
